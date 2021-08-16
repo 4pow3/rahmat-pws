@@ -1,5 +1,5 @@
 
-### HOW TO CREATE Rahmat-SPC
+### HOW TO CREATE Rahmat-PWS
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
