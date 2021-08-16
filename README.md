@@ -20,7 +20,7 @@
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
 
-### WARN
+### WARNING
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
